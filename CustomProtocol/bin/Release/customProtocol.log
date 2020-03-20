@@ -1,0 +1,15 @@
+2020-03-20 17:11:43,041 [1] - Custom protocol started from the user
+2020-03-20 17:11:50,804 [1] - App trigger from uri
+2020-03-20 17:14:30,725 [1] - App trigger from uri
+2020-03-20 17:14:30,749 [1] - Invalid uri System.UriFormatException: Invalid URI: The hostname could not be parsed.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at CustomProtocol.Program.Main(String[] args) in C:\Users\Sam\Documents\GitHub\GIT-URI-Commands\CustomProtocol\Program.cs:line 39
+2020-03-20 17:15:14,923 [1] - App trigger from uri
+2020-03-20 17:15:34,096 [1] - App trigger from uri
+2020-03-20 17:20:07,499 [1] - App trigger from uri
+2020-03-20 17:20:21,706 [1] - App trigger from uri
+2020-03-20 17:20:21,717 [1] - Invalid uri System.UriFormatException: Invalid URI: The hostname could not be parsed.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at CustomProtocol.Program.Main(String[] args) in C:\Users\Sam\Documents\GitHub\GIT-URI-Commands\CustomProtocol\Program.cs:line 39
